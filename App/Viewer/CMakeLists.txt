@@ -13,6 +13,7 @@ set(SOURCE_FILES
     FrmViewScroll.cpp
     ParameterApp.cpp
     DlgSettings.cpp
+    Favorite.cpp
     )
 
 set(HEADER_FILES
@@ -23,6 +24,7 @@ set(HEADER_FILES
     FrmViewScroll.h
     ParameterApp.h
     DlgSettings.h
+    Favorite.h 
     )
 
 set(SOURCE_UI_FILES
